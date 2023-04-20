@@ -3,6 +3,7 @@
 
 * **Python** -> [Check my python codes](https://github.com/DorotaNowicka/Python#python)
 * **C++** -> [See game created with Qt](https://github.com/DorotaNowicka/CPP/tree/main/River_ride#gra-river-ride-jako-projekt-zaliczeniowy)
+* **ML/AI** -> [Look at my progress in ML in Python](https://github.com/DorotaNowicka/MachineLearning#machinelearning)
 * **Arduino/mikrokontrolers** in C++ -> [Check how we research coffee with Arduino](https://github.com/DorotaNowicka/Coffee/blob/main/README.md#coffee) and [what I worked on with Sinara system with antimatter](https://iopscience.iop.org/article/10.1088/1742-6596/2374/1/012038)
 * **Frontend** -> [LearnItalianFree](https://github.com/DorotaNowicka/LearnItalianFree/tree/main#learnitalianfree) - open-access app in React Native, built to help memorise italian from classess, since all of flashcards apps become more complex and paid
 
